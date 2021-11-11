@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sumaiya Akter</h1>
-<h3 align="center">Learner, Extreme Introvert, Photography Enthusiast 😊</h3>
+<h3 align="center">Learner, Extreme Introvert, Photography Enthusiast! 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntaxerror-sumaiya&label=Profile%20views&color=0e75b6&style=flat" alt="syntaxerror-sumaiya" /> </p>
 
-- 🌱 I’m currently studying **University of Asia Pacific (UAP),Department of Computer Science and Engineering!**
+- 🌱 I’m currently studying **University of Asia Pacific (UAP), Department of Computer Science and Engineering (CSE)!**
 
 - ❤ You can also check out my portfolio at [https://github.com/Syntaxerror-Sumaiya/SumaiyaAkter-portfolio](https://github.com/Syntaxerror-Sumaiya/SumaiyaAkter-portfolio)
 
 - 📫 How to reach me **sumaiyaakter2056@gmail.com, 18201056@uap-bd.edu**
 
-- 😁 Fun Fact **I think I'm funny XD**
+- 😁 Fun Fact **I think I'm funny! XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
