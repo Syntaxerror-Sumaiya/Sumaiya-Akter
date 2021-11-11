@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntaxerror-sumaiya&label=Profile%20views&color=0e75b6&style=flat" alt="syntaxerror-sumaiya" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 - 👨‍💻 I’m currently studying **University of Asia Pacific (UAP), Department of Computer Science and Engineering(CSE)!**
 
 - ❤ You can also check out my portfolio at [https://github.com/Syntaxerror-Sumaiya/SumaiyaAkter-portfolio](https://github.com/Syntaxerror-Sumaiya/SumaiyaAkter-portfolio)
