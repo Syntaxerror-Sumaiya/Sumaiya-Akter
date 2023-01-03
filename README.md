@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 👨‍💻 I’m currently studying **University of Asia Pacific (UAP), Department of Computer Science and Engineering(CSE)!**
+- 👨‍💻 I’v completed my graduation from **University of Asia Pacific (UAP), Department of Computer Science and Engineering(CSE)!**
 
 - ❤ You can also check out my portfolio at [https://github.com/Syntaxerror-Sumaiya/SumaiyaAkter-portfolio](https://github.com/Syntaxerror-Sumaiya/SumaiyaAkter-portfolio)
 
