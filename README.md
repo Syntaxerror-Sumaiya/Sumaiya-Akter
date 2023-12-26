@@ -7,7 +7,8 @@
 
 - 👨‍💻 I’v completed my graduation from **University of Asia Pacific (UAP), Department of Computer Science and Engineering(CSE)!**
 
-- ❤ You can also check out my portfolio at [https://github.com/Syntaxerror-Sumaiya/SumaiyaAkter-portfolio](https://github.com/Syntaxerror-Sumaiya/SumaiyaAkter-portfolio)
+- ❤ You can also check out my portfolio at [https://github.com/Syntaxerror-Sumaiya/SumaiyaAkter-portfolio]
+  (https://github.com/Syntaxerror-Sumaiya/SumaiyaAkter-portfolio)
 
 - 📫 How to reach me **sumaiyaakter2056@gmail.com, 18201056@uap-bd.edu**
 
