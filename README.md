@@ -7,7 +7,7 @@
 
 
 
-- 👨‍💻 I’v completed my graduation from **University of Asia Pacific (UAP), Department of Computer Science and Engineering(CSE)!**
+- 👨‍💻 I’v completed my graduation from **University of Asia Pacific (UAP), Department of Computer Science and Engineering(CSE)**
 
 - ❤ You can also check out my portfolio at https://github.com/Syntaxerror-Sumaiya/SumaiyaAkter-portfolio
 
