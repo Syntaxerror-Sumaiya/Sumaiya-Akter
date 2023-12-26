@@ -23,7 +23,6 @@
 <a href="https://www.linkedin.com/in/sumaiyacse44//" target="blank">
 <img align="center" alt="Sumaiya's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
-<a href="https://www.linkedin.com/in/sumaiyacse44/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="sumaiyacse44" height="30" width="40" /></a>  
 <a href="https://www.pinterest.com/error404_sumaiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="error404_sumaiya" height="30" width="40" /></a>  
 
 </p>
