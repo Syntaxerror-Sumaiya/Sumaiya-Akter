@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntaxerror-sumaiya&label=Profile%20views&color=0e75b6&style=flat" alt="syntaxerror-sumaiya" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
   - 👨‍💻 I’v completed my graduation from **University of Asia Pacific (UAP), Department of Computer Science and Engineering(CSE)!**
 
