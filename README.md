@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+AM+Sumaiya+Akter....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
-<h1 align="center">Hi 👋, I'm Sumaiya Akter</h1>
 <h3 align="center"> A Girl Trying to Figure Out Stuff! 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntaxerror-sumaiya&label=Profile%20views&color=0e75b6&style=flat" alt="syntaxerror-sumaiya" /> </p>
