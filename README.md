@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syntaxerror-sumaiya&show_icons=true&locale=en" alt="syntaxerror-sumaiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=syntaxerror-sumaiya&" alt="syntaxerror-sumaiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=syntaxerror-sumaiya&show_icons=true&locale=en" alt="syntaxerror-sumaiya" /></p>
