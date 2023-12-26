@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntaxerror-sumaiya&label=Profile%20views&color=0e75b6&style=flat" alt="syntaxerror-sumaiya" /> </p>
 
-<img align="right" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Coding" width="900" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-  - 👨‍💻 I’v completed my graduation from **University of Asia Pacific (UAP), Department of Computer Science and Engineering(CSE)!**
+
+- 👨‍💻 I’v completed my graduation from **University of Asia Pacific (UAP), Department of Computer Science and Engineering(CSE)!**
 
 - ❤ You can also check out my portfolio at https://github.com/Syntaxerror-Sumaiya/SumaiyaAkter-portfolio
 
