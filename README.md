@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumaiya Akter</h1>
-<h3 align="center">Learner, Extreme Introvert, Photography Enthusiast! 😊</h3>
+<h3 align="center"> A Girl Trying to Figure Out Stuff! 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntaxerror-sumaiya&label=Profile%20views&color=0e75b6&style=flat" alt="syntaxerror-sumaiya" /> </p>
 
